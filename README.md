@@ -1,4 +1,4 @@
-# vagrant-sandbox
+# Vagrant Sandbox
 
 A sample Vagrantfile to set up a CentOS box with a docker-engine, aws cli, Kubectl
 
