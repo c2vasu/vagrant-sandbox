@@ -34,7 +34,7 @@ $ vagrant halt
 
 ### Unable to mount
 Vagrant was unable to mount VirtualBox shared folders.
-# https://github.com/aidanns/vagrant-reload/issues/4
+* [mount issue](https://github.com/aidanns/vagrant-reload/issues/4)
 ```
 $ vagrant plugin install vagrant-vbguest
 $ vagrant vbguest
